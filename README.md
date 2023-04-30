@@ -1,2 +1,2 @@
 # NodeJs-Store-Api-Project
- Store Api Project With NodeJs
+ - I basically used NodeJs,Express and MongoDB Atlas in this project.
